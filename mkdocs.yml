@@ -1,4 +1,4 @@
-site_name: Програмски језик C
+site_name: Предмети
 site_author: Велимир Радловачки
 theme:
   name: material
@@ -15,3 +15,86 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+  favicon: assets/images/favicon.png
+  icon:
+    logo: material/language-c
+  language: sr
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+  font:
+    text: Roboto
+    code: Consolas
+copyright: Copyright &copy; 2023 Velimir Radlovački
+
+nav:
+  - Програмирање (C):
+    - Увод:
+      - Животни циклус развоја софтвера: c/sdlc.md
+      - Програмски језици: c/proglanguages.md
+      - Програмски језик C: c/proglanguagec.md
+      - Синтакса и семантика: c/syntaxsemantics.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.snippets
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+plugins:
+  - glightbox
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+
+hooks:
+  - mkdocs-material/material/.overrides/hooks/translations.py
+
+extra:
+  annotate:
+    json: [.s2]
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/radlovacki
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/velimirradlovacki/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/velimir.radlovacki
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/radlovacki/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/VelimirRadlovački
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/radlovacki
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
