@@ -1,2 +1,3 @@
 # docs
-initial
+
+Teaching CS and IT
