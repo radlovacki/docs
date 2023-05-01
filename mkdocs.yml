@@ -29,12 +29,17 @@ theme:
 copyright: Copyright &copy; 2023 Velimir Radlovački
 
 nav:
+  - Почетна: index.md
   - Програмирање (C):
-    - Увод:
+    - Увод: 
       - Животни циклус развоја софтвера: c/sdlc.md
       - Програмски језици: c/proglanguages.md
       - Програмски језик C: c/proglanguagec.md
       - Синтакса и семантика: c/syntaxsemantics.md
+    - Структура језика и типови података:
+      - Структура програма: c/programstructure.md
+      - Кључне речи: c/keywords.md
+      - Идентификатори: c/identifiers.md
 
 markdown_extensions:
   - attr_list
