@@ -79,14 +79,13 @@ markdown_extensions:
   - pymdownx.details
 
 plugins:
-  - glightbox
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
 
 hooks:
-  - mkdocs-material/material/.overrides/hooks/translations.py
+  - C:\docs\mkdocs-material\material\.overrides\hooks\translations.py
 
 extra:
   annotate:
