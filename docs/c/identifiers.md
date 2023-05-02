@@ -39,9 +39,7 @@ katetaA          // исправно
 IzracunajObim    // исправно
 kateta_1         // исправно
 _obim            // исправно, али се не препоручује!
-_Obim            // исправно, али се не препоручује!
-__OBIM           // исправно, али се не препоручује!
-NemaPotrebeZaOvolikoDugackimImenomIndentifikatora  // исправно, али се не препоручује!
+NemaPotrebeZaOvolikimImenom  // исправно, али се не препоручује!
 ```
 
 односно, неисправно формирани идентификатори могу бити:

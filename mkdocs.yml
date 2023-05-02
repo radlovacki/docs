@@ -1,4 +1,4 @@
-site_name: Предмети
+site_name: Странице предмета
 site_author: Велимир Радловачки
 theme:
   name: material
@@ -37,9 +37,16 @@ nav:
       - Програмски језик C: c/proglanguagec.md
       - Синтакса и семантика: c/syntaxsemantics.md
     - Структура језика и типови података:
+      - Структура језика: c/languagestructure.md      
       - Структура програма: c/programstructure.md
       - Кључне речи: c/keywords.md
       - Идентификатори: c/identifiers.md
+      - Диграфи и триграфи: c/digraphstrigraphs.md
+      - Коментари: c/comments.md
+      - Целобројни тип података: c/inttype.md
+      - Знаковни тип: c/chartype.md
+      - Реални тип: c/floattype.md
+      - Декларација и иницијализација: c/declaration.md
 
 markdown_extensions:
   - attr_list
@@ -68,6 +75,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - admonition
+  - pymdownx.details
 
 plugins:
   - glightbox
