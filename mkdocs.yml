@@ -52,6 +52,38 @@ nav:
       - Аритметички оператори: c/arithmeticoperators.md
       - Логички оператори: c/logicaloperators.md
       - Релацијски оператори: c/relationaloperators.md
+      - Оператори над битовима: c/bitwiseoperators.md
+      - Оператор sizeof: c/sizeof.md
+    - Алгоритми:
+      - Дефиниција и задатак алгоритма: c/algodefinition.md
+      - Графички запис алгоритама: c/graphicalnotation.md
+      - Flowgorithm: c/flowgorithm.md
+    - Једнодимензионални низови:
+      - Selection Sort: c/selectionsort.md
+    - Функције:
+      - Аргументи командне линије: c/commandlinearguments.md
+    - Збирка задатака:
+      - Заокруживање:
+        - Заокружи навише: c/workbook/roundremain/ceil.md
+        - Заокружи наниже: c/workbook/roundremain/floor.md
+        - Поклони: c/workbook/roundremain/pokloni.md
+        - Лифт: c/workbook/roundremain/lift.md
+        - Папир: c/workbook/roundremain/papir.md
+      - Геометрија:
+        - Тренинг: c/workbook/geometry/training.md
+        - Лист папира: c/workbook/geometry/paper.md
+        - Столњак: c/workbook/geometry/tablecloth.md
+        - Фудбалски терен: c/workbook/geometry/footballfield.md
+        - Растојање тачака: c/workbook/geometry/distanceofpoints.md
+        - Површина троугла датих темена: c/workbook/geometry/areaoftrianglevertices.md
+      - Степеновање и кореновање:
+        - Степен и корен: c/workbook/powerroot/powerroot.md
+        - Квадратни корен: c/workbook/powerroot/squareroot.md
+        - Херонова метода: c/workbook/powerroot/heronsmethod.md
+        - Степен: c/workbook/powerroot/power.md
+    - План: c/plan.md
+    - Литература: c/books.md
+
 markdown_extensions:
   - attr_list
   - md_in_html
