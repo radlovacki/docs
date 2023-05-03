@@ -47,7 +47,11 @@ nav:
       - Знаковни тип: c/chartype.md
       - Реални тип: c/floattype.md
       - Декларација и иницијализација: c/declaration.md
-
+    - Изрази и наредбе:
+      - Оператори језика: c/operators.md
+      - Аритметички оператори: c/arithmeticoperators.md
+      - Логички оператори: c/logicaloperators.md
+      - Релацијски оператори: c/relationaloperators.md
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -88,6 +92,7 @@ plugins:
       htmlmin_opts:
           remove_comments: true
       cache_safe: true
+  - glightbox
 
 hooks:
   - C:\docs\mkdocs-material\material\.overrides\hooks\translations.py
