@@ -76,6 +76,9 @@ nav:
         - Фудбалски терен: c/workbook/geometry/footballfield.md
         - Растојање тачака: c/workbook/geometry/distanceofpoints.md
         - Површина троугла датих темена: c/workbook/geometry/areaoftrianglevertices.md
+      - Релацијски оператори:
+        - Јабуке: c/workbook/relationalops/jabuke.md
+        - Збир година браће и сестре: c/workbook/relationalops/zbirgodina.md
       - Степеновање и кореновање:
         - Степен и корен: c/workbook/powerroot/powerroot.md
         - Квадратни корен: c/workbook/powerroot/squareroot.md

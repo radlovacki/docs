@@ -25,10 +25,10 @@
 На пример, након извршења следећег програма:
 
 ```c
---8<-- "docs/c/code/logicalops/logicaloperators0.c"
+--8<-- "docs/c/workbook/logicalops/logicaloperators0.c"
 ```
 
-Преузми: [logicaloperators0.c](code/logicalops/logicaloperators0.c)
+Преузми: [logicaloperators0.c](workbook/logicalops/logicaloperators0.c)
 
 на излазу ће се исписати `0 1` јер негирана вредност различита од нуле
 оператора `a` даје $0$, односно, негирана вредност нула оператора `b` даје $1$.
@@ -37,10 +37,10 @@
 извршења следећег програма:
 
 ```c
---8<-- "docs/c/code/logicalops/logicaloperators1.c"
+--8<-- "docs/c/workbook/logicalops/logicaloperators1.c"
 ```
 
-Преузми: [logicaloperators1.c](code/logicalops/logicaloperators1.c)
+Преузми: [logicaloperators1.c](workbook/logicalops/logicaloperators1.c)
 
 на излазу ће се исписати `2`, јер је израз $(a>b)$ негиран.
 
@@ -64,10 +64,10 @@ $0$.
 На пример, након извршења следећег програма:
 
 ```c
---8<-- "docs/c/code/logicalops/logicaloperators2.c"
+--8<-- "docs/c/workbook/logicalops/logicaloperators2.c"
 ```
 
-Преузми: [logicaloperators2.c](code/logicalops/logicaloperators2.c)
+Преузми: [logicaloperators2.c](workbook/logicalops/logicaloperators2.c)
 
 на излазу ће се исписати `1` јер се коњукцијом оператора чије су вредности
 различите од нуле добија $1$.
@@ -75,10 +75,10 @@ $0$.
 Након извршења следећег програма:
 
 ```c
---8<-- "docs/c/code/logicalops/logicaloperators3.c"
+--8<-- "docs/c/workbook/logicalops/logicaloperators3.c"
 ```
 
-Преузми: [logicaloperators3.c](code/logicalops/logicaloperators3.c)
+Преузми: [logicaloperators3.c](workbook/logicalops/logicaloperators3.c)
 
 на излазу ће се исписати `0` јер коњукцијом оператора чија је вредност једнака
 нули са оператором чија је вредност различита од нуле добија се $0$. Исто важи
@@ -90,10 +90,10 @@ $0$.
 има више од 12 и мање од 20 година.
 
 ```c
---8<-- "docs/c/code/logicalops/logicaloperators4.c"
+--8<-- "docs/c/workbook/logicalops/logicaloperators4.c"
 ```
 
-Преузми: [logicaloperators4.c](code/logicalops/logicaloperators4.c)
+Преузми: [logicaloperators4.c](workbook/logicalops/logicaloperators4.c)
 
 Ако се унесе број који је већи од 12 и мањи од 20 на излазу ће се исписати
 `Teenager`. Ако је задовољен само један услов, да је број већи од 12, али да
@@ -120,10 +120,10 @@ $1$.
 На пример, након извршења следећег програма:
 
 ```c
---8<-- "docs/c/code/logicalops/logicaloperators5.c"
+--8<-- "docs/c/workbook/logicalops/logicaloperators5.c"
 ```
 
-Преузми: [logicaloperators5.c](code/logicalops/logicaloperators5.c)
+Преузми: [logicaloperators5.c](workbook/logicalops/logicaloperators5.c)
 
 на излазу ће се исписати `1` јер се дисјункцијом оператора чије су вредности
 различите од нуле добија $1$. Исто важи ако је вредност првог оператора
@@ -133,10 +133,10 @@ $1$.
 Након извршења следећег програма:
 
 ```c
---8<-- "docs/c/code/logicalops/logicaloperators6.c"
+--8<-- "docs/c/workbook/logicalops/logicaloperators6.c"
 ```
 
-Преузми: [logicaloperators6.c](code/logicalops/logicaloperators6.c)
+Преузми: [logicaloperators6.c](workbook/logicalops/logicaloperators6.c)
 
 на излазу ће се исписати `0` јер дисјункцијом два оператора чија је вредност
 једнака нули добија се $0$.
@@ -145,10 +145,10 @@ $1$.
 одредити да ли је унети број дељив са $2$ или са $3$.
 
 ```c
---8<-- "docs/c/code/logicalops/logicaloperators7.c"
+--8<-- "docs/c/workbook/logicalops/logicaloperators7.c"
 ```
 
-Преузми: [logicaloperators7.c](code/logicalops/logicaloperators7.c)
+Преузми: [logicaloperators7.c](workbook/logicalops/logicaloperators7.c)
 
 Ако се унесе број који је већи од 12 и мањи од 20 на излазу ће се исписати
 `Teenager`. Ако је задовољен само један услов, да је број већи од 12, али да
