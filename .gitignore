@@ -1,2 +1,9 @@
-mkdocs-material/
-site/
+# Build files
+build
+site
+
+# theme
+mkdocs-material
+
+# vscode
+.vscode
