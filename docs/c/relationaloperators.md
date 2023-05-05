@@ -126,3 +126,15 @@ operand1 operator operand2
 ```
 
 Преузми: [relational5.c](workbook/relationalops/relational5.c)
+
+## Примена
+
+Релацијски оператори најчешће налазе примену у логичким изразима који
+представљају услове у наредбама гранања и наредбама циклуса.
+
+Примери задатака у којима је једноставно гранање реализовано коришћењем
+релацијских оператора:
+
+- [Јабуке](workbook/relationalops/jabuke.md)
+- [Збир година браће и сестре](workbook/relationalops/zbirgodina.md)
+- [Једнакостранични троугао датог обима](workbook/relationalops/jednakostranicni.md)

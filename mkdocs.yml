@@ -79,6 +79,9 @@ nav:
       - Релацијски оператори:
         - Јабуке: c/workbook/relationalops/jabuke.md
         - Збир година браће и сестре: c/workbook/relationalops/zbirgodina.md
+        - Једнакостранични троугао датог обима: c/workbook/relationalops/jednakostranicni.md
+      - Логички оператори:
+        - Teenager: c/workbook/logicalops/teenager.md
       - Степеновање и кореновање:
         - Степен и корен: c/workbook/powerroot/powerroot.md
         - Квадратни корен: c/workbook/powerroot/squareroot.md
