@@ -89,6 +89,8 @@ nav:
         - Степен: c/workbook/powerroot/power.md
     - План: c/plan.md
     - Литература: c/books.md
+  Рачунарске мреже:
+    - WinSock2 иницијализација: cn/initializing.md
 
 markdown_extensions:
   - attr_list
