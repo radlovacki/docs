@@ -5,18 +5,12 @@
 
 int main(void)
 {
-    WORD wVersion = MAKEWORD(2, 2);
     WSADATA wsaData;
-    int wsaerr = WSAStartup(wVersion, &wsaData);
-    if (wsaerr == 0)
-    {
-        printf("WSA startup successful!\n");
-        printf("Status: %s.\n", wsaData.szSystemStatus);
-    }
+    int wsaError = WSAStartup(MAKEWORD(2, 2), &wsaData);
+    if (wsaError == 0)
+        printf("WSA startup success! Status: %s.\n", wsaData.szSystemStatus);
     else
-    {
-        printf("WSA startup failed!\n");
-        printf("Error: %d.\n", wsaerr);
-    }
+        printf("WSA startup failed! Error: %d.\n", wsaError);
+    WSACleanup();
     return 0;
 }

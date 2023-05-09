@@ -90,7 +90,9 @@ nav:
     - План: c/plan.md
     - Литература: c/books.md
   Рачунарске мреже:
-    - WinSock2 иницијализација: cn/initializing.md
+    - WinSock2:
+      - Увод: cn/winsock2.md
+      - Иницијализација: cn/initializing.md
 
 markdown_extensions:
   - attr_list
