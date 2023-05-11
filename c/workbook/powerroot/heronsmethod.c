@@ -12,6 +12,6 @@ int main(void)
 		i = sqrt;
 		sqrt = (i + (num / i)) / 2;
 	}
-	printf("%.15lf", sqrt);
+	printf("%.5lf", sqrt);
 	return 0;
 }
