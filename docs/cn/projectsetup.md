@@ -27,13 +27,13 @@ Winsock пројекат у развојном окружењу Visual Studio к
 ## C Winsock пројекат
 
 У заглављу изворног кода програма који користи Winsock је поред `<stdio.h>`
-библиотеке потребно укључити и библиотеке `<winsock2.h>` и `"ws2_32.lib"`.
-Библиотека `"ws2_32.lib"` може се укључити у заглављу помоћу
+библиотеке потребно укључити и библиотеке `<winsock2.h>` и `"ws2_32.lib"` које
+се дистрибуирају у оквиру *Microsoft Windows Software Development Kit (SDK)*
+пакета. Библиотека `"ws2_32.lib"` може се укључити у заглављу помоћу
 `#pragma comment(lib, "ws2_32.lib")`. Други начин је да се у менију одабере
 `Project` - `Project Properties` - `Configuration Properties - Linker - Input`
 и измени поље `Additional Dependencies` додавањем `"ws2_32.lib"`. Датотеке
 `<winsock2.h>` и `"ws2_32.lib"` дистрибуиране су у оквиру пакета
-*Microsoft Windows Software Development Kit (SDK)*.
 
 ``` c
 #define _CRT_SECURE_NO_WARNINGS

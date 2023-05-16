@@ -58,3 +58,9 @@ Winsock имплементације (обично `WinSock 2.0`).
 
 и пример програма који демонстрира како се могу искористити те вредности за
 проверу захтеване Winsock верзије:
+
+```c
+--8<-- "docs/cn/code/initializing2.c"
+```
+
+Преузми: [initializing2.c](code/initializing2.c)
