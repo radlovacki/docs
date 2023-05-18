@@ -9,7 +9,14 @@ int main(void)
     int wsaError = WSAStartup(MAKEWORD(2, 2), &wsaData);
     if (wsaError == 0)
     {
-        printf("WSA OK!");
+        SOCKET example_socket = socket(AF_INET, SOCK_DGRAM, IPPROTO_UDP);
+        if (example_socket != INVALID_SOCKET)
+        {
+            printf("socket() OK!\n");
+            closesocket(example_socket);
+        }
+        else
+            printf("socket() error: %ld.\n", WSAGetLastError());
         WSACleanup();
     }
     else
