@@ -1,9 +1,10 @@
 # C Books
 
 ```text
-https://archive.org/services/loans/loan/?action=media_url&identifier=introductiontoco0000patt_c0k4&format=pdf&redirect=1
+https://archive.org/services/loans/loan/?action=media_url&identifier=cprogrammingguid0000purd&format=pdf&redirect=1
 ```
 
+- Academic.Press.Efficient.C.CPP.Programming.2nd.Edition.1994.SCAN
 - [Academic.Press.Efficient.C.CPP.Programming.2nd.Edition.1994.SCAN-DARKCROWN](https://archive.org/details/efficientccprogr0000hell)
 - [Academic.Press.Mastering.C.Pointers.1990.SCAN-DARKCROWN](https://archive.org/details/masteringcpointe0000trai)
 - [Benjamin.Cummings.A.Book.on.C.1984.SCAN-DARKCROWN](https://archive.org/details/bookoncintroduc00kell)
@@ -11,6 +12,7 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=introductio
 - [Benjamin.Cummings.A.Book.on.C.2nd.Edition.1990.SCAN-DARKCROWN](https://archive.org/details/bookoncprogramm000kell)
 - [Addison.Wesley.A.Book.on.C.3rd.Edition.1995.SCAN-DARKCROWN](https://archive.org/details/bookoncprogramm100kell)
 - Addison.Wesley.A.Book.on.C.4th.Edition.1998.SCAN
+- Addison.Wesley.A.Book.on.C.4th.Edition.1998.SCAN.OCR
 - Addison.Wesley.A.Book.on.C.4th.Edition.1998.BW.SCAN
 - [Addison.Wesley.On.to.C.1994.SCAN-DARKCROWN](https://archive.org/details/ontoc0000wins)
 - Addison.Wesley.Algorithms.in.C.1990.BW.SCAN
@@ -48,6 +50,7 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=introductio
 - [Addison.Wesley.Handbook.of.Algorithms.and.Data.Structures.1991.SCAN-DARKCROWN](https://archive.org/details/handbookofalgori0000gonn/page/292/mode/2up)
 - [Addison.Wesley.Handbook.of.Algorithms.and.Data.Structures.in.Pascal.and.C.2nd.Edition.1991.BW.SCAN]
 - [Addison.Wesley.Learn.C.the.Hard.Way.2016.EPUB.eBook](https://archive.org/details/learn-c-the-hard-way-x-7)
+- [Addison.Wesley.No.Bugs.Delivering.Error.Free.Code.in.C.and.C.Plus.Plus.1992.SCAN-DARKCROWN](https://archive.org/details/nobugsdelivering0000thie)
 - Addison.Wesley.No.Bugs.Delivering.Error.Free.Code.in.C.and.C.Plus.Plus.1992
 - [Addison.Wesley.On.to.C.1994.SCAN-DARKCROWN](https://archive.org/details/ontoc0000wins)
 - [Addison.Wesley.Practical.Algorithms.for.Programmers.1995.SCAN-DARKCROWN](https://archive.org/details/practicalalgorit0000bins)
@@ -72,6 +75,7 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=introductio
 - [Addison.Wesley.The.C.Book.1991.LaTeX.Converted](https://archive.org/details/TheCBook)
 - [Addison.Wesley.The.C.Toolbox.1985.SCAN-DARKCROWN](https://archive.org/details/ctoolbox00hunt)
 - [Addison.Wesley.The.C.Toolbox.2nd.Edition.1989.SCAN-DARKCROWN](https://archive.org/details/ctoolboxreadytor0000hunt)
+- Addison.Wesley.The.Practice.of.Programming.1999.SCAN
 - [Annabooks.ATBIOS.Kit.Nov.1989.eBook](https://archive.org/details/ATBIOS_Kit_Nov89)
 - [Apress.Advanced.C.and.C.Plus.Plus.Compiling.2014.Retail.eBook-BitBook](https://archive.org/details/advanced-c-and-c-compiling-2014)
 - Apress.Advanced.Topics.in.C.2013.Retail.eBook-BitBook
@@ -125,6 +129,8 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=introductio
 - Cambridge.Numerical.Recipes.3rd.Edition.2007.eBook
 - Cambridge.Simulating.Ecological.and.Evolutionary.Systems.in.C.2000.eBook
 - [Cengage.Computer.Science.3rd.Edition.2007.SCAN-DARKCROWN](https://archive.org/details/computersciences0000foro_3rdedition)
+- Thomson.C.Programming.for.the.Absolute.Beginner.2nd.Edition.2008.eBook
+- Cengage.C.Programming.for.the.Absolute.Beginner.3rd.Edition.2015.eBook
 - Cengage.Data.Structures.2nd.Edition.2004.eBook.INCOMPLETE
 - Charles.River.Media.C.and.Data.Structures.2004.CHM.eBook-DDU
 - [Chilton.Writing.Business.Programs.in.C.Language.1985.SCAN-DARKCROWN]https://archive.org/details/writingbusinessp00fran()
@@ -138,7 +144,10 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=introductio
 - [CRC.Press.A.Numerical.Library.in.C.for.Scientists.and.Engineers.1994.SCAN-DARKCROWN](https://archive.org/details/numericallibrary0000lauh)
 - CRC.Press.Intermediate.C.Programming.2015.EPUB.eBook
 - CRC.Press.Introduction.to.Computational.Modeling.using.C.and.Open.Source.Tools.2013.eBook
+- CRC.Press.Introduction.to.Numerical.Programming.2014.eBook
 - CRC.Press.Numerical.Linear.Aproximation.in.C.2008.eBook
+- Darrell.L.Graham.C.Programming.Language.2016.Converted.EPUB
+- [Duke.Press.Common.Sense.C.1992.SCAN-DARKCROWN](https://archive.org/details/commonsensecadvi0000cont)
 - Easy.Steps.C.Programming.in.Easy.Steps.2004.SCAN-DARKCROWN
 - Easy.Steps.C.Programming.in.Easy.Steps.2004.SCAN-DARKCROWN
 - Easy.Steps.C.Programming.in.Easy.Steps.3rd.Edition.2009.EPUB.BAD-DARKCROWN
@@ -157,6 +166,7 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=introductio
 - [Wiley.Beginning.Programming.with.C.For.Dummies.2013.SCAN-DARKCROWN](https://archive.org/details/beginningprogram0000gook)
 - Wiley.Beginning.Programming.with.C.For.Dummies.2013.Retail.Ebook-kE
 - [IDG.Books.Type.and.Learn.C.1994.SCAN-DARKCROWN](https://archive.org/details/typelearnc0000swan)
+- Kendall.Hunt.Introduction.To.Programming.Languages.5th.Edition.2017.eBook
 - [Kluwer.Formal.Specification.Techniques.for.Engineering.Modular.C.Programs.1996.SCAN-DARKCROWN](https://archive.org/details/formalspecificat0000tany)
 - Laxmi.C.Programs.with.Solutions.2011.eBook
 - Laxmi.Programming.in.C.and.Numerical.Analysis.2006.SCAN.INCOMPLETE
@@ -184,9 +194,26 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=introductio
 - [McGraw.Hill.C.The.Complete.Reference.3rd.Edition.1995.SCAN-DARKCROWN](https://archive.org/details/ccompletereferen0000schi_i3l3)
 - McGraw.Hill.C.The.Complete.Reference.4th.Edition.Converted.CHM-TeamFly
 - [McGraw.Hill.C.The.Pocket.Reference.2nd.Edition.1991.SCAN-DARKCROWN](https://archive.org/details/cpocketreference00schi)
+- McGraw.Hill.Data.Structures.Using.C.2006
+- [McGraw.Hill.Introduction.to.Computing.Systems.2004.SCAN-DARKCROWN](https://archive.org/details/introductiontocc0002ramt)
+- [McGraw.Hill.Multithreading.Programming.Techniques.1997.SCAN-DARKCROWN](https://archive.org/details/multithreadingpr0000pras)
 - []()
 - []()
 - []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- [Prentice.Hall.Introduction.to.C.and.Cpp.for.Technical.Students.2nd.Edition.2003.SCAN-DARKCROWN](https://archive.org/details/introductiontocc0002ramt)
 
 ## Graphics
 
@@ -195,6 +222,9 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=introductio
 - [Academic.Press.Graphics.Gems.II.1991.SCAN-DARKCROWN](https://archive.org/details/graphicsgemsii0000unse)
 - [Academic.Press.Graphics.Gems.II.1991.SCAN-DARKCROWN](https://archive.org/details/graphicsgemsii0000unse_d7q2)
 - [Academic.Press.Learning.C.with.Fractals.1993.SCAN-DARKCROWN](https://archive.org/details/learningcwithfra0000stev)
+- [Coriolis.Action.Arcade.Adventure.Set.1994.SCAN-DARKCROWN](https://archive.org/details/action-arcade-adventure-set)
+- CRC.Press.The.Fundamentals.of.C.Cpp.Game.Development.2018.eBook
+- Dwayne.Phillips.Image.Processing.in.C.2nd.Edition.2000.eBook
 - [Prentice.Hall.Programming.HALO.Graphics.in.C.1985.SCAN-DARKCROWN](https://archive.org/details/programminghalog0000trai)
 - [Sams.Programming.Sound.for.DOS.and.Windows.1993.SCAN-DARKCROWN](https://archive.org/details/programmingsound0000gure)
 
@@ -207,5 +237,6 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=introductio
 - [Addison.Wesley.Advanced.Programming.in.Clipper.with.C.1990.SCAN-DARKCROWN](https://archive.org/details/advancedprogramm0000stra)
 - [Addison.Wesley.On.to.C.2001.SCAN-DARKCROWN](https://archive.org/details/ontocprimertoacc00mcdo)
 - [Addison.Wesley.C.as.a.Second.Language.for.Native.Speakers.of.Pascal.1988.SCAN-DARKCROWN](https://archive.org/details/cassecondlanguag0000muld)
-- [Benjamin.Cummings.CPP.for.C.Programmers.2nd.Edition.1994.SCAN-DARKCROWN](https://archive.org/details/cforcprogrammers0000pohl_k1x2)
 - [Addison.Wesley.CPP.for.C.Programmers.3rd.Edition.1999.SCAN-DARKCROWN](https://archive.org/details/cforcprogrammers0000pohl)
+- Apress.Moving.from.C.to.Cpp.2013.eBook
+- [Benjamin.Cummings.CPP.for.C.Programmers.2nd.Edition.1994.SCAN-DARKCROWN](https://archive.org/details/cforcprogrammers0000pohl_k1x2)
