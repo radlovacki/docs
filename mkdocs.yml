@@ -93,8 +93,10 @@ nav:
     - WinSock2:
       - Увод: cn/winsock2.md
       - Припрема пројекта: cn/projectsetup.md
-      - Иницијализација: cn/initializing.md
       - Структура Winsock програма: cn/anatomy.md
+      - Иницијализација: cn/initializing.md
+      - socket(): cn/socket.md
+      - bind(): cn/bind.md
 
 markdown_extensions:
   - attr_list

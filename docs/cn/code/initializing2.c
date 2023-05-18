@@ -9,12 +9,12 @@ int main(void)
     int wsaError = WSAStartup(MAKEWORD(2, 2), &wsaData);
     if (wsaError == 0 && LOBYTE(wsaData.wVersion) == 2 && HIBYTE(wsaData.wVersion) == 2)
     {
-        printf("WSA startup success!\n");
+        printf("WSA OK!\n");
         printf("Description     : %s.\n", wsaData.szDescription);
         printf("System Status   : %s.\n", wsaData.szSystemStatus);
+        WSACleanup();
     }
     else
-        printf("WSA startup failed! Error: %d.\n", wsaError);
-    WSACleanup();
+        printf("WSA error: %d.\n", wsaError);
     return 0;
 }
