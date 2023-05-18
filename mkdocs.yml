@@ -97,6 +97,7 @@ nav:
       - Иницијализација: cn/initializing.md
       - socket(): cn/socket.md
       - bind(): cn/bind.md
+      - listen(): cn/listen.md
 
 markdown_extensions:
   - attr_list
