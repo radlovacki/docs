@@ -89,10 +89,15 @@ nav:
         - Степен: c/workbook/powerroot/power.md
     - План: c/plan.md
     - Литература: c/books.md
-  Рачунарске мреже:
+  - Рачунарске мреже:
     - WinSock2:
       - Увод: cn/winsock2.md
+      - Припрема пројекта: cn/projectsetup.md
+      - Структура Winsock програма: cn/anatomy.md
       - Иницијализација: cn/initializing.md
+      - socket(): cn/socket.md
+      - bind(): cn/bind.md
+      - listen(): cn/listen.md
 
 markdown_extensions:
   - attr_list
