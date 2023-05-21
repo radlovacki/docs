@@ -83,7 +83,7 @@ $\left\lceil{\frac{N}{2}}\right\rceil=\left\lfloor{\frac{N+2-1}{2}}\right\rfloor
 1000.0 уместо 1000, да би дошло до реалног, а не целобројног дељења).
 
 ```c
---8<-- "docs/workbook/roundremain/papir0.c"
+--8<-- "docs/c/workbook/roundremain/papir0.c"
 ```
 
 Преузми: [papir0.c](papir0.c)
@@ -93,7 +93,7 @@ $\left\lceil{\frac{N}{2}}\right\rceil=\left\lfloor{\frac{N+2-1}{2}}\right\rfloor
 дељења и библиотечке функције `ceil` декларисане у заглављу `<math.h>`).
 
 ```c
---8<-- "docs/workbook/roundremain/papir1.c"
+--8<-- "docs/c/workbook/roundremain/papir1.c"
 ```
 
 ## Оптимизација решења
@@ -102,13 +102,13 @@ $\left\lceil{\frac{N}{2}}\right\rceil=\left\lfloor{\frac{N+2-1}{2}}\right\rfloor
 променљиве увођене су ради лакше читљивости решења.
 
 ```c
---8<-- "docs/workbook/roundremain/papir0opt.c"
+--8<-- "docs/c/workbook/roundremain/papir0opt.c"
 ```
 
 Преузми: [papir0opt.c](papir0opt.c)
 
 ```c
---8<-- "docs/workbook/roundremain/papir1opt.c"
+--8<-- "docs/c/workbook/roundremain/papir1opt.c"
 ```
 
 Преузми: [papir1opt.c](papir1opt.c)

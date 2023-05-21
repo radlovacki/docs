@@ -62,7 +62,7 @@ $x \cdot k \geq n$. Пошто су $n$ и $k$ позитивни цели бр�
 оператор.
 
 ```c
---8<-- "docs/workbook/roundremain/lift0.c"
+--8<-- "docs/c/workbook/roundremain/lift0.c"
 ```
 
 Преузми: [lift0.c](lift0.c)
@@ -71,7 +71,7 @@ $x \cdot k \geq n$. Пошто су $n$ и $k$ позитивни цели бр�
 увећати број вожњи добијен као $\left\lfloor{\frac{n}{k}}\right\rfloor$
 
 ```c
---8<-- "docs/workbook/roundremain/lift1.c"
+--8<-- "docs/c/workbook/roundremain/lift1.c"
 ```
 
 Преузми: [lift1.c](lift1.c)
@@ -82,7 +82,7 @@ $x \cdot k \geq n$. Пошто су $n$ и $k$ позитивни цели бр�
 резултат.
 
 ```c
---8<-- "docs/workbook/roundremain/lift2.c"
+--8<-- "docs/c/workbook/roundremain/lift2.c"
 ```
 
 Преузми: [lift2.c](lift2.c)
@@ -91,17 +91,18 @@ $x \cdot k \geq n$. Пошто су $n$ и $k$ позитивни цели бр�
 $\left\lceil{\frac{n}{k}}\right\rceil=\left\lfloor{\frac{n+k-1}{k}}\right\rfloor$.
 
 ```c
---8<-- "docs/workbook/roundremain/lift3.c"
+--8<-- "docs/c/workbook/roundremain/lift3.c"
 ```
 
 Преузми: [lift3.c](lift3.c)
 
 Један начин да се количник заокружи навише је да се користи аритметика
-са реалним бројевима и библиотечка функција `<math.h>`, која врши заокруживање
-реалних бројева навише, уз све опасности које рад са реалним бројевима носи.
+са реалним бројевима и библиотечка функција `ceil` из `<math.h>`, која врши
+заокруживање реалних бројева навише, уз све опасности које рад са реалним
+бројевима носи.
 
 ```c
---8<-- "docs/workbook/roundremain/lift4.c"
+--8<-- "docs/c/workbook/roundremain/lift4.c"
 ```
 
 Преузми: [lift4.c](lift4.c)
@@ -112,28 +113,28 @@ $\left\lceil{\frac{n}{k}}\right\rceil=\left\lfloor{\frac{n+k-1}{k}}\right\rfloor
 променљиве увођене су ради лакше читљивости решења.
 
 ```c
---8<-- "docs/workbook/roundremain/lift0opt.c"
+--8<-- "docs/c/workbook/roundremain/lift0opt.c"
 ```
 
 Преузми: [lift0opt.c](lift0opt.c)
 
-Друго решење је исто као и прво, само се уместо тернанрног условног оператора
+Друго решење је исто као и прво, само се уместо тернарног условног оператора
 користи `if`.
 
 ```c
---8<-- "docs/workbook/roundremain/lift2opt.c"
+--8<-- "docs/c/workbook/roundremain/lift2opt.c"
 ```
 
 Преузми: [lift2opt.c](lift2opt.c)
 
 ```c
---8<-- "docs/workbook/roundremain/lift3opt.c"
+--8<-- "docs/c/workbook/roundremain/lift3opt.c"
 ```
 
 Преузми: [lift3opt.c](lift3opt.c)
 
 ```c
---8<-- "docs/workbook/roundremain/lift4opt.c"
+--8<-- "docs/c/workbook/roundremain/lift4opt.c"
 ```
 
 Преузми: [lift4opt.c](lift4opt.c)

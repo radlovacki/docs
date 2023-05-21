@@ -40,7 +40,7 @@ double floor (double num);
 `.000000` могу се користити спецификатори `%lg` или `%.0lf`.
 
 ```c
---8<-- "docs/workbook/roundremain/floor.c"
+--8<-- "docs/c/workbook/roundremain/floor.c"
 ```
 
 Преузми: [ceil.c](ceil.c)
@@ -59,7 +59,7 @@ float floorf (float num);
 `.000000` могу се користити спецификатори `%g` или `%.0f`.
 
 ```c
---8<-- "docs/workbook/roundremain/floorf.c"
+--8<-- "docs/c/workbook/roundremain/floorf.c"
 ```
 
 Преузми: [floorf.c](floorf.c)
@@ -78,7 +78,7 @@ long double floorl (long double num);
 `.000000` могу се користити спецификатори `%Lg` или `%.0Lf`.
 
 ```c
---8<-- "docs/workbook/roundremain/floorl.c"
+--8<-- "docs/c/workbook/roundremain/floorl.c"
 ```
 
 Преузми: [floorl.c](floorl.c)

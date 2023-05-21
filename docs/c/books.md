@@ -142,6 +142,7 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=cprogrammin
 - [Universities.Press.Fundamentals.of.Data.Structures.in.C.Second.Edition.2008.SCAN-DARKCROWN](https://archive.org/details/fundamentalsofda0002edhoro_l1t6)
 - [Silicon.Press.Fundamentals.of.Data.Structures.in.C.Second.Edition.2008.SCAN-DARKCROWN](https://archive.org/details/fundamentalsofda0000horo_b6k3)
 - [CRC.Press.A.Numerical.Library.in.C.for.Scientists.and.Engineers.1994.SCAN-DARKCROWN](https://archive.org/details/numericallibrary0000lauh)
+- CRC.Press.Intermediate.C.Programming.2015.eBook
 - CRC.Press.Intermediate.C.Programming.2015.EPUB.eBook
 - CRC.Press.Introduction.to.Computational.Modeling.using.C.and.Open.Source.Tools.2013.eBook
 - CRC.Press.Introduction.to.Numerical.Programming.2014.eBook
@@ -165,6 +166,8 @@ https://archive.org/services/loans/loan/?action=media_url&identifier=cprogrammin
 - [Wiley.C.All-in-One.Desk.Reference.for.Dummies.2004.SCAN-DARKCROWN](https://archive.org/details/callinonedeskref00gook)
 - [Wiley.Beginning.Programming.with.C.For.Dummies.2013.SCAN-DARKCROWN](https://archive.org/details/beginningprogram0000gook)
 - Wiley.Beginning.Programming.with.C.For.Dummies.2013.Retail.Ebook-kE
+- Wiley.C.Programming.For.Dummies.2nd.Edition.2021.eBook
+- Wiley.C.Programming.For.Dummies.2nd.Edition.2021.EPUB.eBook
 - [IDG.Books.Type.and.Learn.C.1994.SCAN-DARKCROWN](https://archive.org/details/typelearnc0000swan)
 - Kendall.Hunt.Introduction.To.Programming.Languages.5th.Edition.2017.eBook
 - [Kluwer.Formal.Specification.Techniques.for.Engineering.Modular.C.Programs.1996.SCAN-DARKCROWN](https://archive.org/details/formalspecificat0000tany)

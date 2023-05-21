@@ -40,7 +40,7 @@ double ceil (double num);
 `.000000` могу се користити спецификатори `%lg` или `%.0lf`.
 
 ```c
---8<-- "docs/workbook/roundremain/ceil.c"
+--8<-- "docs/c/workbook/roundremain/ceil.c"
 ```
 
 Преузми: [ceil.c](ceil.c)
@@ -59,7 +59,7 @@ float ceilf (float num);
 `.000000` могу се користити спецификатори `%g` или `%.0f`.
 
 ```c
---8<-- "docs/workbook/roundremain/ceilf.c"
+--8<-- "docs/c/workbook/roundremain/ceilf.c"
 ```
 
 Преузми: [ceilf.c](ceilf.c)
@@ -78,7 +78,7 @@ long double ceill (long double num);
 `.000000` могу се користити спецификатори `%Lg` или `%.0Lf`.
 
 ```c
---8<-- "docs/workbook/roundremain/ceill.c"
+--8<-- "docs/c/workbook/roundremain/ceill.c"
 ```
 
 Преузми: [ceill.c](ceill.c)
