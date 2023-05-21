@@ -98,6 +98,10 @@ nav:
       - socket(): cn/socket.md
       - bind(): cn/bind.md
       - listen(): cn/listen.md
+  - Заштита информационих система:
+    - Temp: temp.md
+  - Рачунарство и информатика:
+    - Temp: temp.md
 
 markdown_extensions:
   - attr_list

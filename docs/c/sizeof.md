@@ -24,7 +24,7 @@ sizeof ( type-name )
 количина меморије у бајтовима $[B]$ која се алоцира за тип. На пример:
 
 ```c
---8<-- "docs/code/sizeof0.c"
+--8<-- "docs/c/code/sizeof0.c"
 ```
 
 Преузми: [sizeof0.c](code/sizeof0.c)
@@ -46,7 +46,7 @@ sizeof ( type-name )
 која се алоцира за вредност израза. На пример:
 
 ```c
---8<-- "docs/code/sizeof1.c"
+--8<-- "docs/c/code/sizeof1.c"
 ```
 
 Преузми: [sizeof1.c](code/sizeof1.c)
@@ -64,7 +64,7 @@ sizeof ( type-name )
 не извршава. На пример:
 
 ```c
---8<-- "docs/code/sizeof2.c"
+--8<-- "docs/c/code/sizeof2.c"
 ```
 
 Преузми: [sizeof2.c](code/sizeof2.c)
@@ -84,7 +84,7 @@ sizeof ( type-name )
 низа. На пример:
 
 ```c
---8<-- "docs/code/sizeof3.c"
+--8<-- "docs/c/code/sizeof3.c"
 ```
 
 Преузми: [sizeof3.c](code/sizeof3.c)
@@ -107,7 +107,7 @@ sizeof ( type-name )
 збиру величина чланова структуре или уније. На пример:
 
 ```c
---8<-- "docs/code/sizeof4.c"
+--8<-- "docs/c/code/sizeof4.c"
 ```
 
 Преузми: [sizeof4.c](code/sizeof4.c)
@@ -130,7 +130,7 @@ sizeof ( type-name )
 величинама због различитих падинга. На пример:
 
 ```c
---8<-- "docs/code/sizeof5.c"
+--8<-- "docs/c/code/sizeof5.c"
 ```
 
 Преузми: [sizeof5.c](code/sizeof5.c)
@@ -150,7 +150,7 @@ sizeof ( type-name )
 Такође:
 
 ```c
---8<-- "docs/code/sizeof6.c"
+--8<-- "docs/c/code/sizeof6.c"
 ```
 
 Преузми: [sizeof6.c](code/sizeof6.c)
