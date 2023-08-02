@@ -15,9 +15,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  favicon: assets/images/favicon.png
+  favicon: images/icon.svg
   icon:
-    logo: material/language-c
+    logo: fontawesome/solid/graduation-cap
   language: sr
   features:
     - content.code.copy
@@ -33,6 +33,7 @@ nav:
   - Програмирање:
     - Увод: 
       - Животни циклус развоја софтвера: prog_c/01_uvod/sdlc.md
+      - Програмски језици: prog_c/01_uvod/programski_jezici.md
   - Рачунарство и информатика:
     - Рачунарство:
       - Увод: comp_sci/01_racunarstvo/uvod.md
