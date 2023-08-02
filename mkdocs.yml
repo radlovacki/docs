@@ -3,18 +3,18 @@ site_author: Велимир Радловачки
 theme:
   name: material
   palette:
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
     - scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   favicon: assets/images/favicon.png
   icon:
     logo: material/language-c
@@ -32,9 +32,10 @@ nav:
   - Почетна: index.md
   - Програмирање:
     - Увод: 
-      - Животни циклус развоја софтвера: c/sdlc.md
+      - Животни циклус развоја софтвера: prog_c/01_uvod/sdlc.md
   - Рачунарство и информатика:
-    - Temp: temp.md
+    - Рачунарство:
+      - Увод: comp_sci/01_racunarstvo/uvod.md
 
 markdown_extensions:
   - attr_list
