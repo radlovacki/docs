@@ -30,13 +30,18 @@ copyright: Copyright &copy; 2023 Velimir Radlovački
 
 nav:
   - Почетна: index.md
-  - Програмирање:
+  - Програмирање I:
     - Увод: 
       - Животни циклус развоја софтвера: prog_c/01_uvod/sdlc.md
       - Програмски језици: prog_c/01_uvod/programski_jezici.md
   - Рачунарство и информатика:
     - Рачунарство:
       - Увод: comp_sci/01_racunarstvo/uvod.md
+      - Историјат: comp_sci/01_racunarstvo/istorijat.md
+  - Примењене информационе технологије III:
+    - Техничка документација:
+      - Елементи техничке документације: tech_docs/01_elementi.md
+      - Врсте техничко-пословних докумената: tech_docs/02_vrste_dokumenata.md
 
 markdown_extensions:
   - attr_list
