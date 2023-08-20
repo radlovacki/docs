@@ -10,7 +10,7 @@
 позиционо означавање бројева који се и данас користи.
 
 <figure markdown>
-  ![Image title](images/abacus.jpg){ width="320" }
+  ![Абакус](images/abacus.jpg){ width="320" }
   <figcaption>Абакус</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@
 **скицирао је механички калкулатор** који је могао да сабира и одузима бројеве.
 
 <figure markdown>
-  ![Image title](images/leonardo.jpg){ width="320" }
+  ![Скица механичког калкулатора](images/leonardo.jpg){ width="320" }
   <figcaption>Скица механичког калкулатора</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@
 Немачкој, Италији и Француској креиране су сличне механичке машине.
 
 <figure markdown>
-  ![Image title](images/pascalina.jpg){ width="320" }
+  ![Паскалина](images/pascalina.jpg){ width="320" }
   <figcaption>Паскалина</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@
 Његов **разбој за ткање** програмирао се бушеним картицама.
 
 <figure markdown>
-  ![Image title](images/jacquard.jpg){ width="320" }
+  ![Жакардов разбој за ткање](images/jacquard.jpg){ width="320" }
   <figcaption>Жакардов разбој за ткање</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ II светског рата електронски рачунари се пар
 Великој Британији и САД-у.
 
 <figure markdown>
-  ![Image title](images/bush.jpg){ width="320" }
+  ![Eлектромеханички рачунар](images/bush.jpg){ width="320" }
   <figcaption>Eлектромеханички рачунар</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Integrator and Computer)*, EDVAC *(енгл. Electronic Discrete Variable Automa
 Computer)*, UNIVAC *(енгл. Universal Automatic Computer)*, IBM 650, IBM 701…
 
 <figure markdown>
-  ![Image title](images/eniac.webp){ width="320" }
+  ![ENIAC](images/eniac.webp){ width="320" }
   <figcaption>ENIAC</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Computer)*, UNIVAC *(енгл. Universal Automatic Computer)*, IBM 650, IBM 701�
 UNIVAC 1107, CDC 3600 итд
 
 <figure markdown>
-  ![Image title](images/ibm7090.jpg){ width="320" }
+  ![IBM 7090](images/ibm7090.jpg){ width="320" }
   <figcaption>IBM 7090</figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ UNIVAC 1107, CDC 3600 итд
 PDP-11, NCR 395, Burroughs B6500
 
 <figure markdown>
-  ![Image title](images/ibm370.jpg){ width="320" }
+  ![IBM System/370](images/ibm370.jpg){ width="320" }
   <figcaption>IBM System/370</figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ Very Large-Scale Integration)*
 Macintosh и др.
 
 <figure markdown>
-  ![Image title](images/ibmpc.jpg){ width="320" }
+  ![IBM PC](images/ibmpc.jpg){ width="320" }
   <figcaption>IBM PC</figcaption>
 </figure>
 
