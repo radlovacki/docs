@@ -41,7 +41,16 @@ nav:
   - Веб програмирање:
     - Увод у веб програмирање:
       - Основни појмови и значај веб технологија: web_dev\01_uvod\osnovni_pojmovi.md
-      - Основни елементи веб технологија: web_dev\01_uvod\definicija_i_osobine.md
+      - Основни елементи веб технологија: web_dev\01_uvod\osnovni_elementi.md
+      - HTTP методе, захтеви и одговори: web_dev\01_uvod\http_metode.md
+      - Web Design (II разред): web_dev\01_uvod\web_design.md
+    - Објектно оријентисано програмирање:
+      - Појам објектно оријентисаног програмирања: web_dev\02_oop\pojam_oop.md
+      - Кључни принципи објектно оријентисаног програмирања: web_dev\02_oop\kljucni_principi.md
+      - Класа, члан класе и објекат: web_dev\02_oop\klasa_objekat.md
+    - Серверски скрипт језици:
+      - Веб сервер контроле: web_dev\03_asp\web_server_kontrole.md
+      - Веб сервер контролa Button: web_dev\03_asp\button.md
   - Примењене информационе технологије III:
     - Техничка документација:
       - Елементи техничке документације: tech_docs/01_elementi.md
