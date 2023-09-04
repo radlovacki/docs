@@ -38,6 +38,10 @@ nav:
     - Рачунарство:
       - Увод: comp_sci/01_racunarstvo/uvod.md
       - Историјат: comp_sci/01_racunarstvo/istorijat.md
+  - Рачунарски хардвер:
+    - Склапање рачунара:
+      - Увод: comp_hw/01_assembly/uvod.md
+      - Савремени рачунарски системи: comp_hw/01_assembly/savremeni.md
   - Веб програмирање:
     - Web Design (II разред): web_dev\01_uvod\web_design.md
     - Увод у веб програмирање:
