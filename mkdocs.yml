@@ -32,8 +32,11 @@ nav:
   - Почетна: index.md
   - Програмирање I:
     - Увод: 
-      - Животни циклус развоја софтвера: prog_c/01_uvod/sdlc.md
       - Програмски језици: prog_c/01_uvod/programski_jezici.md
+      - Програмски језик C: prog_c/01_uvod/programski_jezik_c.md
+      - Синтакса и семантика: prog_c/01_uvod/sintaksa_i_semantika.md
+      - Синтаксне конструкције језика: prog_c/01_uvod/sintaksne_konstrukcije.md
+      - Животни циклус развоја софтвера: prog_c/01_uvod/zivotni_ciklus.md
   - Рачунарство и информатика:
     - Рачунарство:
       - Увод: comp_sci/01_racunarstvo/uvod.md
@@ -49,6 +52,8 @@ nav:
       - Основни елементи веб технологија: web_dev\01_uvod\osnovni_elementi.md
       - HTTP методе, захтеви и одговори: web_dev\01_uvod\http_metode.md      
     - Објектно оријентисано програмирање:
+      - Супер брзи увод у C#: web_dev\02_oop\uvod_csharp.md
+      - Гранања и циклуси: web_dev\02_oop\grananja_ciklusi.md
       - Појам објектно оријентисаног програмирања: web_dev\02_oop\pojam_oop.md
       - Кључни принципи објектно оријентисаног програмирања: web_dev\02_oop\kljucni_principi.md
       - Класа, члан класе и објекат: web_dev\02_oop\klasa_objekat.md
