@@ -80,3 +80,11 @@ Interface*) интерфејса:
 - Game порт,
 - IrDA порт,
 - *PS/2 портови итд.
+
+На основу свега што си данас научио можеш да нацрташ поједностављену блок шему
+савременог рачунарског система:
+
+<figure markdown>
+  ![Савремени рачунарски систем](../../comp_sci/01_racunarstvo/images/racunarski-sistem.png){ width="480" }
+  <figcaption>Савремени рачунарски систем</figcaption>
+</figure>

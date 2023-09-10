@@ -46,12 +46,14 @@ nav:
     - Склапање рачунара:
       - Увод: comp_hw/01_assembly/uvod.md
       - Савремени рачунарски системи: comp_hw/01_assembly/savremeni.md
+      - Улога и начин рада напајања: comp_hw/01_assembly/napajanje_uvod.md
   - Веб програмирање:
     - Web Design (II разред): web_dev\01_uvod\web_design.md
     - Увод у веб програмирање:
       - Основни појмови и значај веб технологија: web_dev\01_uvod\osnovni_pojmovi.md
       - Основни елементи веб технологија: web_dev\01_uvod\osnovni_elementi.md
-      - HTTP методе, захтеви и одговори: web_dev\01_uvod\http_metode.md      
+      - HTTP методе, захтеви и одговори: web_dev\01_uvod\http_metode.md
+      - Платформе и језици за развој веб апликација: web_dev\01_uvod\platforme.md
     - Објектно оријентисано програмирање:
       - Супер брзи увод у C#: web_dev\02_oop\uvod_csharp.md
       - Гранања и циклуси: web_dev\02_oop\grananja_ciklusi.md
