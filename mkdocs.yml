@@ -57,6 +57,7 @@ nav:
       - HTTP методе, захтеви и одговори: web_dev\01_uvod\http_metode.md
       - Платформе и језици за развој веб апликација: web_dev\01_uvod\platforme.md
       - Појам и класификација сервера, веб сервери и веб хостинг: web_dev\01_uvod\servers_hosting.md
+      - Питања за проверу знања: web_dev\01_uvod\test.md
     - Објектно оријентисано програмирање:
       - Супер брзи увод у C#: web_dev\02_oop\uvod_csharp.md
       - Гранања и циклуси: web_dev\02_oop\grananja_ciklusi.md
