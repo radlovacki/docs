@@ -42,6 +42,8 @@ nav:
       - Увод: comp_sci/01_racunarstvo/uvod.md
       - Историјат: comp_sci/01_racunarstvo/istorijat.md
       - Појам хардвера, софтвера и рачунарског система: comp_sci/01_racunarstvo/racunarski.md
+      - Кућиште и напајање рачунара: comp_sci/01_racunarstvo/case_psu.md
+      - Матична плоча: comp_sci/01_racunarstvo/mainboard.md
   - Рачунарски хардвер:
     - Склапање рачунара:
       - Увод: comp_hw/01_assembly/uvod.md
@@ -54,6 +56,7 @@ nav:
       - Основни елементи веб технологија: web_dev\01_uvod\osnovni_elementi.md
       - HTTP методе, захтеви и одговори: web_dev\01_uvod\http_metode.md
       - Платформе и језици за развој веб апликација: web_dev\01_uvod\platforme.md
+      - Појам и класификација сервера, веб сервери и веб хостинг: web_dev\01_uvod\servers_hosting.md
     - Објектно оријентисано програмирање:
       - Супер брзи увод у C#: web_dev\02_oop\uvod_csharp.md
       - Гранања и циклуси: web_dev\02_oop\grananja_ciklusi.md
