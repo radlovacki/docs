@@ -21,3 +21,7 @@
 - Пин 1: ?
 - Пин 2: ?
 - Пин 3: PWDIS - Power Disable
+
+## Molex
+
+![Molex](images/molex.png)
