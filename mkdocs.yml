@@ -49,7 +49,7 @@ nav:
       - Увод: comp_hw/01_assembly/uvod.md
       - Савремени рачунарски системи: comp_hw/01_assembly/savremeni.md
       - Улога и начин рада напајања: comp_hw/01_assembly/napajanje_uvod.md
-      - Напајање: comp_hw/01_assembly/napajanje.md
+      - Конектори напајања: comp_hw/01_assembly/napajanje_konektori.md
   - Веб програмирање:
     - Web Design (II разред): web_dev\01_uvod\web_design.md
     - Увод у веб програмирање:
