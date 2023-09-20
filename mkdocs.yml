@@ -117,7 +117,7 @@ plugins:
   - glightbox
 
 hooks:
-  - C:\docs\mkdocs-material\material\.overrides\hooks\translations.py
+  - C:\docs\mkdocs-material\material\overrides\hooks\translations.py
 
 extra:
   annotate:
