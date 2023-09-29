@@ -73,6 +73,7 @@ nav:
       - Елементи техничке документације: tech_docs/01_elementi.md
       - Врсте техничко-пословних докумената: tech_docs/02_vrste_dokumenata.md
       - Кориснички и пројектно оријентисана документација: tech_docs/03_korisnicki_projektno.md
+      - Софтверско инжењерство: tech_docs/04_softversko_inzenjerstvo.md
 
 markdown_extensions:
   - attr_list
